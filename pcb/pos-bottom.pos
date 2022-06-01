@@ -1,0 +1,29 @@
+### Module positions - created on Fri Jan 14 22:37:12 2022 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                                   PosX       PosY       Rot  Side
+C1        10uF                     C_0603_1608Metric                    -144.4625   -94.9325  180.0000  bottom
+C4        22pF                     C_0603_1608Metric                    -147.6375  -110.4900   90.0000  bottom
+C5        22pF                     C_0603_1608Metric                    -141.3510  -110.5020  -90.0000  bottom
+C6        1uF                      C_0603_1608Metric                    -155.3210  -101.2190    0.0000  bottom
+F1        Polyfuse_Small           Fuse_1206_3216Metric                 -144.4625   -92.6465  180.0000  bottom
+Q1        AO3401A                  SOT-23                               -132.0800  -103.9495  180.0000  bottom
+R1        5.1k                     R_0603_1608Metric                    -129.8575   -89.5350   90.0000  bottom
+R2        5.1k                     R_0603_1608Metric                    -128.1430   -89.5350   90.0000  bottom
+R3        22                       R_0603_1608Metric                    -155.3210  -102.8065  180.0000  bottom
+R4        22                       R_0603_1608Metric                    -155.3210  -104.3940  180.0000  bottom
+R5        10k                      R_0603_1608Metric                    -136.2710  -100.9650    0.0000  bottom
+R6        10k                      R_0603_1608Metric                    -144.4625  -115.5700   90.0000  bottom
+R7        100r                     R_0603_1608Metric                    -136.2710  -102.6160  180.0000  bottom
+R8        10k                      R_0603_1608Metric                    -136.2710  -104.2670    0.0000  bottom
+R9        1k                       R_0603_1608Metric                    -139.2555   -91.3765   90.0000  bottom
+R10       1k                       R_0603_1608Metric                    -157.1625   -92.0115   90.0000  bottom
+R11       1k                       R_0603_1608Metric                    -139.0015  -110.4900   90.0000  bottom
+R12       1k                       R_0603_1608Metric                    -158.1150  -110.3630   90.0000  bottom
+RESET1    SW_Push                  PinHeader_1x02_P2.00mm_Vertical      -143.5735  -120.7135  -90.0000  bottom
+U1        ATmega32U2-AU            TQFP-32_7x7mm_P0.8mm                 -144.4625  -102.5525   90.0000  bottom
+U2        SRV05-4                  SOT-23-6                             -159.7769   -88.6251   45.0000  bottom
+USB1      USB_C_Receptacle_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12  -144.5260   -83.8200    0.0000  bottom
+X1        Crystal_GND24_Small      Crystal_SMD_3225-4Pin_3.2x2.5mm      -144.4897  -110.5265  180.0000  bottom
+## End

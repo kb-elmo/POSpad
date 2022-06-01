@@ -1,0 +1,20 @@
+{
+    "keyboard_name": "pos",
+    "url": "",
+    "maintainer": "kb-elmo",
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [
+                {"x": 0, "y": 0},
+                {"x": 1, "y": 0},
+                {"x": 0, "y": 1},
+                {"x": 1, "y": 1}
+            ]
+        },
+        "LAYOUT_one": {
+            "layout": [
+                {"x": 0, "y": 0}
+            ]
+        }
+    }
+}

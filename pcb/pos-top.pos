@@ -1,0 +1,10 @@
+### Module positions - created on Fri Jan 14 22:37:12 2022 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+MX1       MX-LED    MXOnly-1U          134.9375   -94.4562  180.0000  top
+MX2       MX-LED    MXOnly-1U          153.9875   -94.4562  180.0000  top
+MX3       MX-LED    MXOnly-1U          134.9375  -113.5062  180.0000  top
+MX4       MX-LED    MXOnly-1U          153.9875  -113.5062  180.0000  top
+## End
